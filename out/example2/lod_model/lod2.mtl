@@ -1,0 +1,464 @@
+newmtl Color_1
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd ..\..\..\data\example2\leaf.png
+newmtl Color_0
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd ..\..\..\data\example2\bark.jpg
+newmtl Color_2
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/0.png
+newmtl Color_3
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/1.png
+newmtl Color_4
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/2.png
+newmtl Color_5
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/3.png
+newmtl Color_6
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/4.png
+newmtl Color_7
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/5.png
+newmtl Color_8
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/6.png
+newmtl Color_9
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/7.png
+newmtl Color_10
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/8.png
+newmtl Color_11
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/9.png
+newmtl Color_12
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/10.png
+newmtl Color_13
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/11.png
+newmtl Color_14
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/12.png
+newmtl Color_15
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/13.png
+newmtl Color_16
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/14.png
+newmtl Color_17
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/15.png
+newmtl Color_18
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/16.png
+newmtl Color_19
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/17.png
+newmtl Color_20
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/18.png
+newmtl Color_21
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/19.png
+newmtl Color_22
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/20.png
+newmtl Color_23
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/21.png
+newmtl Color_24
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/22.png
+newmtl Color_25
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/23.png
+newmtl Color_26
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/24.png
+newmtl Color_27
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/25.png
+newmtl Color_28
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/26.png
+newmtl Color_29
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/27.png
+newmtl Color_30
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/28.png
+newmtl Color_31
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/29.png
+newmtl Color_32
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/30.png
+newmtl Color_33
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/31.png
+newmtl Color_34
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/32.png
+newmtl Color_35
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/33.png
+newmtl Color_36
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/34.png
+newmtl Color_37
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/35.png
+newmtl Color_38
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/36.png
+newmtl Color_39
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/37.png
+newmtl Color_40
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/38.png
+newmtl Color_41
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/39.png
+newmtl Color_42
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/40.png
+newmtl Color_43
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/41.png
+newmtl Color_44
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/42.png
+newmtl Color_45
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/43.png
+newmtl Color_46
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/44.png
+newmtl Color_47
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/45.png
+newmtl Color_48
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/46.png
+newmtl Color_49
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/47.png
+newmtl Color_50
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/48.png
+newmtl Color_51
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/49.png
+newmtl Color_52
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/50.png
+newmtl Color_53
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/51.png
+newmtl Color_54
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/52.png
+newmtl Color_55
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/53.png
+newmtl Color_56
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/54.png
+newmtl Color_57
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture2/55.png

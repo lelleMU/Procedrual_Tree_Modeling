@@ -1,0 +1,16 @@
+newmtl Color_1
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd ..\..\data\example2\leaf.png
+newmtl Color_0
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd ..\..\data\example2\bark.jpg

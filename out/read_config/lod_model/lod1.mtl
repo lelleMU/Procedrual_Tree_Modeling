@@ -1,0 +1,144 @@
+newmtl Color_1
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd ..\..\..\data\example2\leaf.png
+newmtl Color_0
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd ..\..\..\data\example2\bark.jpg
+newmtl Color_2
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture1/0.png
+newmtl Color_3
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture1/1.png
+newmtl Color_4
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture1/2.png
+newmtl Color_5
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture1/3.png
+newmtl Color_6
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture1/4.png
+newmtl Color_7
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture1/5.png
+newmtl Color_8
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture1/6.png
+newmtl Color_9
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture1/7.png
+newmtl Color_10
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture1/8.png
+newmtl Color_11
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture1/9.png
+newmtl Color_12
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture1/10.png
+newmtl Color_13
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture1/11.png
+newmtl Color_14
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture1/12.png
+newmtl Color_15
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture1/13.png
+newmtl Color_16
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture1/14.png
+newmtl Color_17
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	Ks 0.2 0.2 0.2
+	Tr 0
+	illum 1
+	Ns 50
+map_Kd texture1/15.png
