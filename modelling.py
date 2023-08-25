@@ -234,7 +234,7 @@ def procedural_modelling():
     optimal_para=Metropolis_Hastings_optimization(gpc_array,para_mean,para_std)
     _, dis, ts = from_para_to_tree_mesh(global_pool, gpc_array,
                                               para=optimal_para,
-                                              this_sample_num=3)
+                                              this_sample_num=1)
     print(f'modelling error:{dis}')
 
     mesh = lpy.tree_mesh()
