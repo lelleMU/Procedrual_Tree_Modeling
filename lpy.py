@@ -2268,7 +2268,6 @@ def derive_with_gpc(global_pool,pointcloud_array,h,para:config.parameter,revise_
     ts2.Start()
     ts2.para.set('t',round(ts2.para.variables_list[ts2.para.t])+4)
     derivation_length = round(ts2.para.variables_list[ts2.para.t])
-
     jump_flag=False
     for i in range(derivation_length):
         #print('year',i)
@@ -2284,7 +2283,6 @@ def derive_with_gpc(global_pool,pointcloud_array,h,para:config.parameter,revise_
     height2 = ts2.box.max_z
     scaled_pointcloud2 = pointcloud_array * height2
     dis3, dis4, terminals_pos = ts2.compute_dis(scaled_pointcloud2)
-    print(dis4,height2)
     dis3 /= height2
     dis4 /= height2
     ts2.para.set('t', round(ts2.para.variables_list[ts2.para.t]) - 4)
