@@ -960,7 +960,7 @@ class tree_scene(object):
 
     def pruning_node(self,p_id):
         p=self.pool[p_id]
-        p.type = 3
+        p.type = 2
         # self.set_node_dead(p.next_nodes[1])inter
 
         #self.set_node_dead(self.pool[p.right_child])
@@ -1023,7 +1023,7 @@ class tree_scene(object):
         # if p.type == 4:
         #     return
         p=self.pool[p_id]
-        if p.type == 2:
+        if p.type == 2 and self.pool[p.right_child].type !=6:
             #light= self.compute_branch_light(p.right_child) / L_FE
             light,counts = self.compute_branch_light_active(p.right_child)
             light/=self.para.L_FE
@@ -1092,6 +1092,7 @@ class tree_scene(object):
     def compute_dis(self,cloud_array):
         b_pc = np.array(self.terminals_pos)
         if b_pc.shape[0] == 0:
+
             return 999., 999., b_pc
         dis_accum = 0
         counts = 0
@@ -2264,10 +2265,10 @@ def derive_with_gpc(global_pool,pointcloud_array,h,para:config.parameter,revise_
     ts2.global_pointcloud=scaled_pointcloud
     ts2.global_height=height
     ts2.global_mid_height=(height+min_h)/2.
-    #print('start')
     ts2.Start()
     ts2.para.set('t',round(ts2.para.variables_list[ts2.para.t])+4)
     derivation_length = round(ts2.para.variables_list[ts2.para.t])
+
     jump_flag=False
     for i in range(derivation_length):
         #print('year',i)
@@ -2283,8 +2284,10 @@ def derive_with_gpc(global_pool,pointcloud_array,h,para:config.parameter,revise_
     height2 = ts2.box.max_z
     scaled_pointcloud2 = pointcloud_array * height2
     dis3, dis4, terminals_pos = ts2.compute_dis(scaled_pointcloud2)
+    print(dis4,height2)
     dis3 /= height2
     dis4 /= height2
+    ts2.para.set('t', round(ts2.para.variables_list[ts2.para.t]) - 4)
     #print('dis3: ', dis3, 'dis4: ', dis4)
     return dis3, dis4, ts2
 
