@@ -49,7 +49,7 @@ def from_para_to_tree_mesh(global_pool,gpc,para:config.parameter,this_sample_num
     for i in range(this_sample_num):
         _, t_dis4,ts= lpy.derive_with_gpc(global_pool,gpc,h,para)
         if this_sample_num>1:
-            print(i,this_sample_num,t_dis4)
+            print(f'{i}/{this_sample_num},error:{t_dis4}')
         dis_all+=t_dis4
         if (t_dis4)<(dis4):
             dis4 = t_dis4
